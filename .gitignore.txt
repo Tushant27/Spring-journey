@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.class
+
+# Ignore IDE files
+/.idea/
+/.vscode/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore Maven/Gradle build folders
+target/
+build/
